@@ -26,6 +26,7 @@ Membuat aplikasi sederhana untuk menerima, memproses, dan menampilkan data pengg
 
 ## 1. Struktur Folder
 
+```
 Lab7Web_PHP/
 │
 ├── index.php
@@ -35,8 +36,8 @@ Lab7Web_PHP/
 ├── latihan4.php
 ├── latihan5.php
 ├── latihan6.php
-├── latihan7.php
-
+└── latihan7.php
+```
 ## 2. Cara Menjalankan Program
 
 Pastikan XAMPP sudah terpasang.
