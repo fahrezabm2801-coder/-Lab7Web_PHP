@@ -80,5 +80,5 @@ http://localhost/Lab7Web_PHP/
 ![imge alt](https://github.com/fahrezabm2801-coder/-Lab7Web_PHP/blob/69dbae8c1d0a1601b7103f61541ff7f49a9c9555/latihan%207%20harga_praktikum%206.png)
 ![imge alt](https://github.com/fahrezabm2801-coder/-Lab7Web_PHP/blob/69dbae8c1d0a1601b7103f61541ff7f49a9c9555/latihan%207_praktikum%206.png)
 
-7. Mini Project: Aplikasi Formulir Data Mahasiswa
+## 4. Mini Project: Aplikasi Formulir Data Mahasiswa
 ![imge alt](https://github.com/fahrezabm2801-coder/-Lab7Web_PHP/blob/69dbae8c1d0a1601b7103f61541ff7f49a9c9555/Mini%20Project_Praktikum6.png)
